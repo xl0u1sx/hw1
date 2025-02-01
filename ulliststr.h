@@ -17,8 +17,8 @@ class ULListStr {
      * is fully occupied
      */
     size_t first, last;
-    Item *prev;
-    Item *next;
+    Item* prev;
+    Item* next;
 
     /**
      * Default constructor
